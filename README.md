@@ -1,0 +1,2 @@
+# kholsLogseq
+khols Logseq
