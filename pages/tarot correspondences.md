@@ -1,0 +1,3 @@
+- [[Tarot]]
+- [[Major Arcana Correspondence Table]]
+- [[Minor Arcana Correspondence Tables]]

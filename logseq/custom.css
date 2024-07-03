@@ -1,0 +1,14 @@
+#app-container {
+  background-image: none !important;
+}
+
+/* for replacing font with basic font when using strange themes.
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body {
+ font-family: 'Inter', sans-serif;
+}
+*/
+
+th {
+  word-break: keep-all;
+}
