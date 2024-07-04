@@ -52,6 +52,7 @@ background-color:: gray
   background-color:: gray
 	- ### Wands
 	  background-color:: red
+	  collapsed:: true
 		- [[Suit of Fire]]
 			- [[Ace of Wands]]
 			  logseq.order-list-type:: number
@@ -83,6 +84,7 @@ background-color:: gray
 			  logseq.order-list-type:: number
 	- ### Cups
 	  background-color:: blue
+	  collapsed:: true
 		- [[Suit of Water]]
 			- [[Ace of Cups]]
 			  logseq.order-list-type:: number
@@ -146,35 +148,35 @@ background-color:: gray
 			  logseq.order-list-type:: number
 	- ### Pentacles
 	  background-color:: green
-	  collapsed:: true
-		- [[Ace of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Two of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Three of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Four of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Five of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Six of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Seven of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Eight of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Nine of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Ten of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Prince of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Princess of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[Queen of Pentacles]]
-		  logseq.order-list-type:: number
-		- [[King of Pentacles]]
-		  logseq.order-list-type:: number
+		- [[Suit of Earth]]
+			- [[Ace of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Two of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Three of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Four of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Five of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Six of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Seven of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Eight of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Nine of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Ten of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Prince of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Princess of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[Queen of Pentacles]]
+			  logseq.order-list-type:: number
+			- [[King of Pentacles]]
+			  logseq.order-list-type:: number
 - ## Specialty Cards
   background-color:: gray
 	- ### Cosmic Slumber
