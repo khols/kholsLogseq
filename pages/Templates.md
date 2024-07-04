@@ -6,5 +6,7 @@
   note:: xxx
   image:: xxx
   template:: Product
--
+- | Name | xxx |
+  | Hebrew | xxx |
+  | Transliteration | xxx |
 -
