@@ -20,9 +20,9 @@
   | Transliteration | AyMY, [[Ayin]] [[Mem]] [[Yod]] |
   |Numbers | 70 40 10|
   | [[Number]] [[Total]] | 120 |
-  |Meaning | [[Eye]] , [[Water]], Hand |
-  |type | xxx |
-  |astrology | xxx |
-  | [[Tarot]] | xxx |
+  |Meaning | [[Eye]] , [[Water]], [[Hand]] |
+  |type | Simple, Mother, Simple |
+  |astrology | Capricorn, Water, Virgo |
+  | [[Tarot]] | [[The Devil]], [[The Hanged Man]], [[The Hermit]] |
 -
 -
