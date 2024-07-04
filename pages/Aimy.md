@@ -4,9 +4,9 @@
 - ## Amy
 - ## Aimy
 	- | Name | Aimy |
-	  | [[Hebrew]] |  |
-	  | Transliteration | xxx |
-	  | Numbers | xxx |
+	  | [[Hebrew]] | עמי |
+	  | Transliteration | AyMY, [[Ayin]] [[Mem]] [[Yod]] |
+	  | Numbers |  |
 	  | [[Number]] [[Total]] | xxx |
 	  | Meaning | xxx |
 	  | Letter [[Type]] | xxx |
