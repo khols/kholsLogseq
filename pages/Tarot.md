@@ -192,4 +192,9 @@ collapsed:: true
   background-color:: purple
 	- Carnival at the End of the World Tarot
 		- type::
+		  price:: ee1e
+		  link:: 
+		  note:: eb6d
+		-
+		-
 		-
