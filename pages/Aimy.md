@@ -4,7 +4,7 @@
 - ## Amy
 - ## Aimy
 	- | Name | [[Aimy]] |
-	  | :--- | 
+	  | :-- | :-: |
 	  | [[Hebrew]] | עמי |
 	  | Transliteration | AyMY |
 	  | Letters | [[Ayin]] [[Mem]] [[Yod]] |
