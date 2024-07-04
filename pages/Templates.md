@@ -1,6 +1,6 @@
 - #organization
 - type:: xxx
-  
+  publisher:: xxx
   price:: xxx
   link:: xxx
   note:: xxx
