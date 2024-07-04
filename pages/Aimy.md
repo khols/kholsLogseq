@@ -3,8 +3,8 @@
 - She changed her name for a change of identity, so people could no longer control her.
 - ## Amy
 - ## Aimy
-	- | Name | [[Aimy]] |
-	  | [[Hebrew]] | עמי, AyMY |
+	- | Name | [[Aimy]] | | 
+	  | [[Hebrew]] | עמי, Ay|M|Y |
 	  | Transliteration | , [[Ayin]] [[Mem]] [[Yod]] |
 	  | Numbers | 70 | 40 | 10 |
 	  | [[Number]] [[Total]] | 120 |
