@@ -191,7 +191,5 @@ collapsed:: true
 - # Cards to Purchase #buy
   background-color:: purple
 	- Carnival at the End of the World Tarot
-		- info::
-		- price::
-		-
+		- type::
 		-
