@@ -188,7 +188,8 @@ collapsed:: true
 			- [[The Morning]]
 			- [[The Night]]
 		-
-- # Cards to Purchase
+- # Cards to Purchase #buy
   background-color:: purple
 	- Carnival at the End of the World Tarot
-		- [Kahnselsnick.biz](https://kahnselesnick.biz/store/carnival-at-the-end-of-the-world-tarot-deck-commercial-edition)
+		- link: [Kahnselsnick.biz](https://kahnselesnick.biz/store/carnival-at-the-end-of-the-world-tarot-deck-commercial-edition)
+		-
