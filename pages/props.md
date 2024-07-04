@@ -1,6 +1,5 @@
 ## Property tags
 	- {{renderer :awpr-props-list}}
-	  collapsed:: true
 		- .awpr-layout-grid:: true
 		    link::  eb54
 		    links::  eb54
