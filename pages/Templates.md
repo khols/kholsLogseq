@@ -18,7 +18,7 @@
 - | Name | Aimy |
   | Hebrew | עמי |
   | Transliteration | AyMY, Ayin Mem Yod |
-  |Numbers | xxx |
+  |Numbers | 70|
   | [[Number]] [[Total]] | xxx |
   |Meaning | xxx |
   |type | xxx |
