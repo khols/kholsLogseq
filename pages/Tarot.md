@@ -202,5 +202,6 @@ collapsed:: true
 		  link:: xxx
 		  note:: xxx
 		  image:: xxx
+		  template:: Product
 		-
 		-
