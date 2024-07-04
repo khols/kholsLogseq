@@ -15,12 +15,12 @@
   |type | xxx |
   |astrology | xxx |
   | tarot | xxx |
-- | Name | Aimy |
+- | Name | [[Aimy]] |
   | Hebrew | עמי |
-  | Transliteration | AyMY, Ayin Mem Yod |
+  | Transliteration | AyMY, [[Ayin]] [[Mem]] [[Yod]] |
   |Numbers | 70 40 10|
   | [[Number]] [[Total]] | 120 |
-  |Meaning | xxx |
+  |Meaning | [[Eye]] , [[Water]], Hand |
   |type | xxx |
   |astrology | xxx |
   | [[Tarot]] | xxx |
