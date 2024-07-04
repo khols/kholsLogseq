@@ -52,66 +52,65 @@ background-color:: gray
   background-color:: gray
 	- ### Wands
 	  background-color:: red
-		- logseq.order-list-type:: number
-		- [[Ace of Wands]]
-		  logseq.order-list-type:: number
-		- [[Two of Wands]]
-		  logseq.order-list-type:: number
-		- [[Three of Wands]]
-		  logseq.order-list-type:: number
-		- [[Four of Wands]]
-		  logseq.order-list-type:: number
-		- [[Five of Wands]]
-		  logseq.order-list-type:: number
-		- [[Six of Wands]]
-		  logseq.order-list-type:: number
-		- [[Seven of Wands]]
-		  logseq.order-list-type:: number
-		- [[Eight of Wands]]
-		  logseq.order-list-type:: number
-		- [[Nine of Wands]]
-		  logseq.order-list-type:: number
-		- [[Ten of Wands]]
-		  logseq.order-list-type:: number
-		- [[Prince of Wands]]
-		  logseq.order-list-type:: number
-		- [[Princess of Wands]]
-		  logseq.order-list-type:: number
-		- [[Queen of Wands]]
-		  logseq.order-list-type:: number
-		- [[King of Wands]]
-		  logseq.order-list-type:: number
+		- [[Suit of Fire]]
+			- [[Ace of Wands]]
+			  logseq.order-list-type:: number
+			- [[Two of Wands]]
+			  logseq.order-list-type:: number
+			- [[Three of Wands]]
+			  logseq.order-list-type:: number
+			- [[Four of Wands]]
+			  logseq.order-list-type:: number
+			- [[Five of Wands]]
+			  logseq.order-list-type:: number
+			- [[Six of Wands]]
+			  logseq.order-list-type:: number
+			- [[Seven of Wands]]
+			  logseq.order-list-type:: number
+			- [[Eight of Wands]]
+			  logseq.order-list-type:: number
+			- [[Nine of Wands]]
+			  logseq.order-list-type:: number
+			- [[Ten of Wands]]
+			  logseq.order-list-type:: number
+			- [[Prince of Wands]]
+			  logseq.order-list-type:: number
+			- [[Princess of Wands]]
+			  logseq.order-list-type:: number
+			- [[Queen of Wands]]
+			  logseq.order-list-type:: number
+			- [[King of Wands]]
+			  logseq.order-list-type:: number
 	- ### Cups
 	  background-color:: blue
-	  collapsed:: true
-		- [[Ace of Cups]]
-		  logseq.order-list-type:: number
-		- [[Two of Cups]]
-		  logseq.order-list-type:: number
-		- [[Three of Cups]]
-		  logseq.order-list-type:: number
-		- [[Four of Cups]]
-		  logseq.order-list-type:: number
-		- [[Five of Cups]]
-		  logseq.order-list-type:: number
-		- [[Six of Cups]]
-		  logseq.order-list-type:: number
-		- [[Seven of Cups]]
-		  logseq.order-list-type:: number
-		- [[Eight of Cups]]
-		  logseq.order-list-type:: number
-		- [[Nine of Cups]]
-		  logseq.order-list-type:: number
-		- [[Ten of Cups]]
-		  logseq.order-list-type:: number
-		- [[Prince of Cups]]
-		  logseq.order-list-type:: number
-		- [[Princess of Cups]]
-		  logseq.order-list-type:: number
-		- [[Queen of Cups]]
-		  logseq.order-list-type:: number
-		- [[King of Cups]]
-		  logseq.order-list-type:: number
+		- [[Suit of Water]]
+			- [[Ace of Cups]]
+			- [[Two of Cups]]
+			  logseq.order-list-type:: number
+			- [[Three of Cups]]
+			  logseq.order-list-type:: number
+			- [[Four of Cups]]
+			  logseq.order-list-type:: number
+			- [[Five of Cups]]
+			  logseq.order-list-type:: number
+			- [[Six of Cups]]
+			  logseq.order-list-type:: number
+			- [[Seven of Cups]]
+			  logseq.order-list-type:: number
+			- [[Eight of Cups]]
+			  logseq.order-list-type:: number
+			- [[Nine of Cups]]
+			  logseq.order-list-type:: number
+			- [[Ten of Cups]]
+			  logseq.order-list-type:: number
+			- [[Prince of Cups]]
+			  logseq.order-list-type:: number
+			- [[Princess of Cups]]
+			  logseq.order-list-type:: number
+			- [[Queen of Cups]]
+			  logseq.order-list-type:: number
+			- [[King of Cups]]
+			  logseq.order-list-type:: number
 	- ### Swords
 	  background-color:: yellow
 	  collapsed:: true
