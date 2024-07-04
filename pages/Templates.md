@@ -1,14 +1,14 @@
 - #organization
+- ### Product Template
+	- type:: xxx
+	  publisher:: xxx
+	  price:: xxx
+	  link:: xxx
+	  note:: xxx
+	  image:: xxx
+	  template:: Product
 -
-- type:: xxx
-  publisher:: xxx
-  price:: xxx
-  link:: xxx
-  note:: xxx
-  image:: xxx
-  template:: Product
--
-- Gematria [[Template]]
+- ### Gematria Template
 	- | Name | xxx |
 	  | [[Hebrew]] | xxx |
 	  | Transliteration | xxx |
