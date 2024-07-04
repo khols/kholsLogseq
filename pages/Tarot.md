@@ -190,11 +190,10 @@ collapsed:: true
 		-
 - # Cards to Purchase #buy
   background-color:: purple
-	- Carnival at the End of the World Tarot
-		- type::
-		  price:: ee1e
+	- [[Carnival at the End of the World Tarot]]
+		- type:: #tarot-cards 
+		  price:: 
 		  link:: 
 		  note:: eb6d
 		  image:: ![Carnival at the End of the World Tarot](https://images.squarespace-cdn.com/content/v1/5027b59384ae2d2eef4536ed/1597436453656-ZZ2BYWJ3YQKCJ1AJP9A5/card_arrangement.jpg?format=750w){:height 200, :width 200}
-		-
 		-
