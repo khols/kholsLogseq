@@ -191,7 +191,7 @@ collapsed:: true
 - # Cards to Purchase #buy
   background-color:: purple
 	- Carnival at the End of the World Tarot
-		-
+		- info::
 		- price::
-		  link:: [Kahnselsnick.biz](https://kahnselesnick.biz/store/carnival-at-the-end-of-the-world-tarot-deck-commercial-edition)
+		-
 		-
