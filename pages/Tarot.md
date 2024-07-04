@@ -199,7 +199,8 @@ collapsed:: true
 		  image:: ![Carnival at the End of the World Tarot](https://images.squarespace-cdn.com/content/v1/5027b59384ae2d2eef4536ed/1597436453656-ZZ2BYWJ3YQKCJ1AJP9A5/card_arrangement.jpg?format=750w){:height 200, :width 200}
 	- [[Lilifer Tarot]]
 		- type:: #tarot-cards 
+		  publisher:: 
 		  price:: ~$58
 		  link:: [little-darkness.com](https://little-darkness.com/products/the-lilifer-tarot-gold-edition)
 		  note:: I love the watercolor art on these cards. They also have astrological symbols on them #Astrology 
-		  image:: ![Lilifer Tarot](https://little-darkness.com/cdn/shop/files/image000052.jpg?v=1692230657&width=990)
+		  image:: ![Lilifer Tarot](https://little-darkness.com/cdn/shop/files/image000052.jpg?v=1692230657&width=990){:height 200, :width 200}
