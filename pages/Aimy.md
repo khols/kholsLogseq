@@ -3,13 +3,13 @@
 - She changed her name for a change of identity, so people could no longer control her.
 - ## Amy
 - ## Aimy
-	- | Name | Aimy |
+	- | Name | [[Aimy]] |
 	  | [[Hebrew]] | עמי |
 	  | Transliteration | AyMY, [[Ayin]] [[Mem]] [[Yod]] |
-	  | Numbers |  |
-	  | [[Number]] [[Total]] | xxx |
-	  | Meaning | xxx |
-	  | Letter [[Type]] | xxx |
+	  | Numbers | 70 40 10 |
+	  | [[Number]] [[Total]] | 120 |
+	  | Meaning | [[Eye]] [[Water]] [[Hand]] |
+	  | Letter [[Type]] | Simple Mother Simple |
 	  | [[Astrology]] | xxx |
 	  | [[Tarot]] | xxx |
 -
