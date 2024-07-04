@@ -8,12 +8,12 @@
   template:: Product
 	-
 - | Name | xxx |
-  | Hebrew | xxx |
+  | [[Hebrew]] | xxx |
   | Transliteration | xxx |
-  |Numbers | xxx |
+  | Numbers | xxx |
   | [[Number]] [[Total]] | xxx |
-  |Meaning | xxx |
-  |type | xxx |
-  |astrology | xxx |
+  | Meaning | xxx |
+  | Letter Type | xxx |
+  | [[Astrology]] | xxx |
   | [[Tarot]] | xxx |
   template:: Gematria
