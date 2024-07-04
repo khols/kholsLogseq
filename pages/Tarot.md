@@ -85,6 +85,7 @@ background-color:: gray
 	  background-color:: blue
 		- [[Suit of Water]]
 			- [[Ace of Cups]]
+			  logseq.order-list-type:: number
 			- [[Two of Cups]]
 			  logseq.order-list-type:: number
 			- [[Three of Cups]]
@@ -114,34 +115,35 @@ background-color:: gray
 	- ### Swords
 	  background-color:: yellow
 	  collapsed:: true
-		- [[Ace of Swords]]
-		  logseq.order-list-type:: number
-		- [[Two of Swords]]
-		  logseq.order-list-type:: number
-		- [[Three of Swords]]
-		  logseq.order-list-type:: number
-		- [[Four of Swords]]
-		  logseq.order-list-type:: number
-		- [[Five of Swords]]
-		  logseq.order-list-type:: number
-		- [[Six of Swords]]
-		  logseq.order-list-type:: number
-		- [[Seven of Swords]]
-		  logseq.order-list-type:: number
-		- [[Eight of Swords]]
-		  logseq.order-list-type:: number
-		- [[Nine of Swords]]
-		  logseq.order-list-type:: number
-		- [[Ten of Swords]]
-		  logseq.order-list-type:: number
-		- [[Prince of Swords]]
-		  logseq.order-list-type:: number
-		- [[Princess of Swords]]
-		  logseq.order-list-type:: number
-		- [[Queen of Swords]]
-		  logseq.order-list-type:: number
-		- [[King of Swords]]
-		  logseq.order-list-type:: number
+		- [[Suit of Air]]
+			- [[Ace of Swords]]
+			  logseq.order-list-type:: number
+			- [[Two of Swords]]
+			  logseq.order-list-type:: number
+			- [[Three of Swords]]
+			  logseq.order-list-type:: number
+			- [[Four of Swords]]
+			  logseq.order-list-type:: number
+			- [[Five of Swords]]
+			  logseq.order-list-type:: number
+			- [[Six of Swords]]
+			  logseq.order-list-type:: number
+			- [[Seven of Swords]]
+			  logseq.order-list-type:: number
+			- [[Eight of Swords]]
+			  logseq.order-list-type:: number
+			- [[Nine of Swords]]
+			  logseq.order-list-type:: number
+			- [[Ten of Swords]]
+			  logseq.order-list-type:: number
+			- [[Prince of Swords]]
+			  logseq.order-list-type:: number
+			- [[Princess of Swords]]
+			  logseq.order-list-type:: number
+			- [[Queen of Swords]]
+			  logseq.order-list-type:: number
+			- [[King of Swords]]
+			  logseq.order-list-type:: number
 	- ### Pentacles
 	  background-color:: green
 	  collapsed:: true
