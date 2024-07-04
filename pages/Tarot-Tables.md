@@ -1,2 +1,2 @@
-- {{query table}}
+- {{query }}
 -
