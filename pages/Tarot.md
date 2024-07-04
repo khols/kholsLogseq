@@ -1,5 +1,5 @@
 # Meanings
-collapsed:: true
+background-color:: gray
 	- ## Correspondence Tables
 	  background-color:: gray
 		- [[Major Arcana Correspondence Table]]
@@ -54,7 +54,6 @@ collapsed:: true
 	  background-color:: gray
 		- ### Wands #Fire
 		  background-color:: red
-		  collapsed:: true
 			- [[Suit of Fire]]
 				- [[Ace of Wands]]
 				  logseq.order-list-type:: number
