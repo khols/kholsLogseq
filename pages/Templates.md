@@ -18,8 +18,8 @@
 - | Name | Aimy |
   | Hebrew | עמי |
   | Transliteration | AyMY, Ayin Mem Yod |
-  |Numbers | 70|
-  | [[Number]] [[Total]] | xxx |
+  |Numbers | 70 40 10|
+  | [[Number]] [[Total]] | 120 |
   |Meaning | xxx |
   |type | xxx |
   |astrology | xxx |
