@@ -190,6 +190,7 @@ background-color:: gray
 		-
 - # Cards to Purchase #buy
   background-color:: purple
+  collapsed:: true
 	- [[Carnival at the End of the World Tarot]]
 		- type:: #tarot-cards 
 		  publisher:: Kahn & Selesnick
