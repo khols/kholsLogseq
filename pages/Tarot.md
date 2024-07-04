@@ -192,10 +192,9 @@ collapsed:: true
   background-color:: purple
 	- [[Carnival at the End of the World Tarot]]
 		- type:: #tarot-cards 
+		  publisher:: Kahn & Selesnick
 		  price:: ~$60
 		  link:: [kahnselesnick.biz](https://kahnselesnick.biz/store/carnival-at-the-end-of-the-world-tarot-deck-commercial-edition)
-		  note:: Has a really unique style; feels vintage. Is printed on very nice cardstock
+		  note:: Has a really unique style; feels vintage. Is printed on very nice cardstock, and is artist published
 		  image:: ![Carnival at the End of the World Tarot](https://images.squarespace-cdn.com/content/v1/5027b59384ae2d2eef4536ed/1597436453656-ZZ2BYWJ3YQKCJ1AJP9A5/card_arrangement.jpg?format=750w){:height 200, :width 200}
-- ```calc
-  55*1.0875
-  ```
+-
