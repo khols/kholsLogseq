@@ -1,5 +1,5 @@
 - #organization
-- ### Product Template
+- ### Product [[Template]]
 	- type:: xxx
 	  publisher:: xxx
 	  price:: xxx
@@ -8,7 +8,7 @@
 	  image:: xxx
 	  template:: Product
 -
-- ### Gematria Template
+- ### Gematria [[Template]]
 	- | Name | xxx |
 	  | [[Hebrew]] | xxx |
 	  | Transliteration | xxx |
@@ -19,3 +19,4 @@
 	  | [[Astrology]] | xxx |
 	  | [[Tarot]] | xxx |
 	  template:: Gematria
+-
