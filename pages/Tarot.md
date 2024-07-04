@@ -1,5 +1,6 @@
-## Correspondence Tables
-background-color:: gray
+# Tarot Card
+- ## Correspondence Tables
+  background-color:: gray
 	- [[Major Arcana Correspondence Table]]
 	- [[Minor Arcana Correspondence Tables]]
 - ## Major Arcana
