@@ -10,6 +10,6 @@
 	  | [[Number]] [[Total]] | 120 |
 	  | Meaning | [[Eye]] [[Water]] [[Hand]] |
 	  | Letter [[Type]] | Simple Mother Simple |
-	  | [[Astrology]] | xxx |
-	  | [[Tarot]] | xxx |
+	  | [[Astrology]] | Capricorn, Water Virgo |
+	  | [[Tarot]] | [[The Devil]], [[The Hanged Man]], [[The Hermit]] |
 -
