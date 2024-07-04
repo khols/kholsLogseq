@@ -7,3 +7,6 @@
   image:: xxx
   template:: Product
 - name::
+  Hebrew::
+  transliteration
+-
