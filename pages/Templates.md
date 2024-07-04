@@ -6,4 +6,4 @@
   note:: xxx
   image:: xxx
   template:: Product
--
+- name::
