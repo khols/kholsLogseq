@@ -54,6 +54,7 @@ background-color:: gray
 	  background-color:: gray
 		- ### Wands #Fire
 		  background-color:: red
+		  collapsed:: true
 			- [[Suit of Fire]]
 				- [[Ace of Wands]]
 				  logseq.order-list-type:: number
@@ -117,6 +118,7 @@ background-color:: gray
 				  logseq.order-list-type:: number
 		- ### Swords #Air
 		  background-color:: yellow
+		  collapsed:: true
 			- [[Suit of Air]]
 				- [[Ace of Swords]]
 				  logseq.order-list-type:: number
@@ -148,6 +150,7 @@ background-color:: gray
 				  logseq.order-list-type:: number
 		- ### Pentacles #Earth
 		  background-color:: green
+		  collapsed:: true
 			- [[Suit of Earth]]
 				- [[Ace of Pentacles]]
 				  logseq.order-list-type:: number
