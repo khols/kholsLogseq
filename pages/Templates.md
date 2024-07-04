@@ -16,7 +16,7 @@
   |astrology | xxx |
   | tarot | xxx |
 - | Name | Aimy |
-  | Hebrew |  |
+  | Hebrew | עמי |
   | Transliteration | AyMY, Ayin Mem Yod |
   |Numbers | xxx |
   | [[Number]] [[Total]] | xxx |
