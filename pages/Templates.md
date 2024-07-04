@@ -1,9 +1,9 @@
 - #organization
-type:: xxx
-price:: xxx
-link:: xxx
-note:: xxx
-image:: xxx
-template:: Product
-
+- type:: xxx
+  
+  price:: xxx
+  link:: xxx
+  note:: xxx
+  image:: xxx
+  template:: Product
 -
