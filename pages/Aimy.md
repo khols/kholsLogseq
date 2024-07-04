@@ -4,12 +4,12 @@
 - ## Amy
 - ## Aimy
 	- | Name | [[Aimy]] |
-	  | [[Hebrew]] | עמי |
-	  | Transliteration | AyMY, [[Ayin]] [[Mem]] [[Yod]] |
-	  | Numbers | 70 40 10 |
+	  | [[Hebrew]] | עמי, AyMY |
+	  | Transliteration | , [[Ayin]] [[Mem]] [[Yod]] |
+	  | Numbers | 70 | 40 | 10 |
 	  | [[Number]] [[Total]] | 120 |
 	  | Meaning | [[Eye]] [[Water]] [[Hand]] |
-	  | Letter [[Type]] | Simple Mother Simple |
-	  | [[Astrology]] | Capricorn, Water Virgo |
+	  | Letter [[Type]] | Simple, Mother Simple |
+	  | [[Astrology]] | Capricorn, Water, Virgo |
 	  | [[Tarot]] | [[The Devil]], [[The Hanged Man]], [[The Hermit]] |
 -
