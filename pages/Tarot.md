@@ -50,7 +50,7 @@ background-color:: gray
 	  logseq.order-list-type:: number
 - ## Minor Arcana
   background-color:: gray
-	- ### Wands
+	- ### Wands #Fire
 	  background-color:: red
 	  collapsed:: true
 		- [[Suit of Fire]]
@@ -82,7 +82,7 @@ background-color:: gray
 			  logseq.order-list-type:: number
 			- [[King of Wands]]
 			  logseq.order-list-type:: number
-	- ### Cups
+	- ### Cups #Water
 	  background-color:: blue
 	  collapsed:: true
 		- [[Suit of Water]]
@@ -114,7 +114,7 @@ background-color:: gray
 			  logseq.order-list-type:: number
 			- [[King of Cups]]
 			  logseq.order-list-type:: number
-	- ### Swords
+	- ### Swords #Air
 	  background-color:: yellow
 	  collapsed:: true
 		- [[Suit of Air]]
@@ -146,8 +146,9 @@ background-color:: gray
 			  logseq.order-list-type:: number
 			- [[King of Swords]]
 			  logseq.order-list-type:: number
-	- ### Pentacles
+	- ### Pentacles #Earth
 	  background-color:: green
+	  collapsed:: true
 		- [[Suit of Earth]]
 			- [[Ace of Pentacles]]
 			  logseq.order-list-type:: number
