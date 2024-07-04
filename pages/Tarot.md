@@ -202,4 +202,4 @@ collapsed:: true
 		  price:: ~$58
 		  link:: [little-darkness.com](https://little-darkness.com/products/the-lilifer-tarot-gold-edition)
 		  note:: I love the watercolor art on these cards. They also have astrological symbols on them #Astrology 
-		  image:: xxx
+		  image:: ![Lilifer Tarot](https://little-darkness.com/cdn/shop/files/image000052.jpg?v=1692230657&width=990)
