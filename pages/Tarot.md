@@ -52,6 +52,7 @@ background-color:: gray
   background-color:: gray
 	- ### Wands
 	  background-color:: red
+		- logseq.order-list-type:: number
 		- [[Ace of Wands]]
 		  logseq.order-list-type:: number
 		- [[Two of Wands]]
