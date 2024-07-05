@@ -1,4 +1,4 @@
-- #Tarot
+- [[Tarot]]
 -
 - ## Indepth Tables
   background-color:: gray

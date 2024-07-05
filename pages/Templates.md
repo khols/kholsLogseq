@@ -1,4 +1,4 @@
-- #organization
+- [[organization]]
 - ### Product [[Template]]
 	- type:: xxx
 	  publisher:: xxx

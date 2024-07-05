@@ -1,1 +1,1 @@
-- #Tarot
+- [[Tarot]]

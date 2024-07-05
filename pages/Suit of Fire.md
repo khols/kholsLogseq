@@ -1,2 +1,2 @@
-- #Tarot
+- [[Tarot]]
 - | Title & Atribution |
