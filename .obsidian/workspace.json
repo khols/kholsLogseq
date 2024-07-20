@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Aimy.md",
+                "file": "journals/2024-07-13.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Aimy.md",
+                "file": "journals/2024-07-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Aimy.md",
+                "file": "journals/2024-07-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Aimy.md"
+                "file": "journals/2024-07-13.md"
               }
             }
           }
@@ -149,11 +150,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "32f0ca2d2ef5aab6",
+  "active": "dd24138918809f0f",
   "lastOpenFiles": [
+    "pages/Aimy.md",
+    "journals/2024-07-13.md",
     "pages/Major Arcana Correspondence Table.md",
     "pages/Tiphareth.md",
-    "pages/Aimy.md",
     "attachments",
     "pages/Hand.md",
     "pages/Bookworm.md",
